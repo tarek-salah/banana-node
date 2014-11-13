@@ -8,28 +8,28 @@ This version differs from [the original one](https://github.com/LucidWorks/banan
 
 To run Banana follow this steps:
 
-1. Install Node.js
+* Install Node.js
 ```
 sudo apt-get install python-software-properties python g++ make
 sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
 sudo apt-get install nodejs
 ```
-2. Clone the repository
+* Clone the repository
 ```
 https://github.com/tarek-salah/banana-node.git
 ```
 
-3. In the terminal run 
+* In the terminal run 
 ```
 npm install
 ```
 
-4. Download [Solr](http://lucene.apache.org/solr/) and run it on port 8983
+* Download [Solr](http://lucene.apache.org/solr/) and run it on port 8983
 
-5. In the terminal run 
+* In the terminal run 
 ```
 npm start
 ```
 
-6. go to localhost:3000
+* go to localhost:3000
