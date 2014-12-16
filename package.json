@@ -19,7 +19,10 @@
   "description": "banana-node ===========",
   "main": "app.js",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-git": "^0.3.2",
+    "grunt-shell": "^1.1.1"
   },
   "repository": {
     "type": "git",
